@@ -113,7 +113,7 @@
 
 <div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+## <b>Passionate about leveraging data to drive informed business decisions and eager to embark on new challenges in the world of data analytics</b>
 
 </div>
 <br>
