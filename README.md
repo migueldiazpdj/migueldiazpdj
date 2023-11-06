@@ -1,63 +1,152 @@
-(https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+<h1 align="center"><b>Hi , I'm Miguel Díaz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->A
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
 
-<h2>Hey there! I'm Aditya</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Miguel -->
+<br>
 
-### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+	
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-### 🛠 &nbsp;Tech Stack
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+<br>
 
-### ⚙️ &nbsp;GitHub Analytics
+- A passionate Self-taught Front-end developer
+- Playing CTF's at spare time
+- Currently learning Web Development by Self
+- Personal website [link](https://www.0xabdulkhalid.ml)
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
 
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+
+- **Languages**:
+    
+    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+
+<br>   
+    
+- **Front-End Development**:
+
+   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+<br>
+
+- **Cloud Hosting**:
+
+    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    
+<br>
+
+- **Softwares and Tools**:
+
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+
+<br>
+
+- **Extras**:
+
+    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+
+
+</p>
+
+<br>
+<br>
+
+-----
+
+<br>
+
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+
+<div align="center">
+
+<a href="https://github.com/0xabdulkhalid/">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+
 </a>
-</p>
+</div>
 
-### 🤝🏻 &nbsp;Connect with Me
+<br>
+<br>
+<br>
 
-<p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
-</p>
+-----
+
+<br>
+<br>
+
+## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+<br>
+<div align='left'>
+
+<ul>
+
+<li>
+<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="https://twitter.com/0xabdulkhalid" target="_blank">
+<img src="https://img.shields.io/badge/twitter:  0xabdulkhalid-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;"/>
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+	
+</ul>
+</div>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<br>
+<br>
+
+<div align='center'>
+
+## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+
+</div>
+<br>
+<br>
+<br>
+<br>
+
+---
+
+<br>
