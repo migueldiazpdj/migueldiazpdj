@@ -9,7 +9,7 @@
 
 <br>
 <picture>
-  <img src="https://static.vecteezy.com/system/resources/previews/007/559/606/original/a-children-learning-coding-or-computer-programming-flat-illustration-coding-for-kids-basic-computer-programing-can-be-used-for-web-landing-page-social-media-promotion-etc-vector.jpg" align="right" width="270px">
+  <img src="https://static.vecteezy.com/system/resources/previews/024/560/761/original/data-analytics-icon-monitoring-big-data-analysis-containing-database-free-png.png" align="right" width="250px">
 </picture>
 
 
