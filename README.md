@@ -34,7 +34,7 @@
 <br>   
 
 
-- **Tools**:
+- **🤹Tools**:
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
@@ -100,7 +100,7 @@
 
 <div align='center'>
 
-## <b><i>Passionate about leveraging data to drive informed business decisions and eager to embark on new challenges in the world of data analytics</i></b>
+## <b><i>💥Passionate about leveraging data to drive informed business decisions and eager to embark on new challenges in the world of data analytics💥</i></b>
 
 </div>
 <br>
