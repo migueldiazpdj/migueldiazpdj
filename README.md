@@ -5,8 +5,10 @@
 </p>
 
 <br>
+<picture>
+  <img src="https://static.vecteezy.com/system/resources/previews/007/559/606/original/a-children-learning-coding-or-computer-programming-flat-illustration-coding-for-kids-basic-computer-programing-can-be-used-for-web-landing-page-social-media-promotion-etc-vector.jpg" align="right" width="270px">
+</picture>
 
-<picture> <img align="right" src="" width = 250px></picture>
 
 <br>
 
@@ -16,8 +18,6 @@
 - 📖 I’m currently open for an Intern or a new job opportunity
 
 <br><br>
-
-<img src="https://static.vecteezy.com/system/resources/previews/007/559/606/original/a-children-learning-coding-or-computer-programming-flat-illustration-coding-for-kids-basic-computer-programing-can-be-used-for-web-landing-page-social-media-promotion-etc-vector.jpg"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
