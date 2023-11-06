@@ -24,7 +24,7 @@
 
 <p align="center">
 
-- **Languages**:
+- **🔤Languages**:
 
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![R](https://img.shields.io/badge/R%20-%2769a84f.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -34,7 +34,7 @@
 <br>   
 
 
-- **Tools**:
+- **🛠️Tools**:
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
