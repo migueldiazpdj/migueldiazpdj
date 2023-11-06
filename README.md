@@ -50,17 +50,21 @@
 </div>
 
 ## <b>👉🏻 Let's Connect </b> 
-<div align='left'>
-
-<a href="https://www.linkedin.com/in/migueldiazperezdejuan/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:%20migueldiazperezdejuan-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
-</a>
-  
-<br>
-<a href="mailto:migueldiazperezdejuan@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  migueldiazperezdejuan-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-	
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
 </div>
 
-<div align='center'>
+<!--icons and links-->
+<p>
+<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+</p>
+
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=migueldiazpdj&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
+
