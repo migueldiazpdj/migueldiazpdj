@@ -29,10 +29,7 @@
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![R](https://img.shields.io/badge/R%20-%2769a84f.svg?style=for-the-badge&logo=r&logoColor=white)
     ![HTML](https://img.shields.io/badge/HTML%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-
 <br>   
-
 
 - **🛠️Tools**:
 
@@ -42,18 +39,11 @@
 ![RStudio](https://img.shields.io/badge/RStudio-%2345a4e5.svg?style=for-the-badge&logo=rstudio&logoColor=white)
 
 <br>
-
-
 </p>
-
 <br>
 <br>
-
 -----
-
 <br>
-
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
