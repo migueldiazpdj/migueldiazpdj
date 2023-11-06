@@ -9,7 +9,7 @@
 
 <br>
 <picture>
-  <img src="https://static.vecteezy.com/system/resources/previews/024/560/761/original/data-analytics-icon-monitoring-big-data-analysis-containing-database-free-png.png" align="right" width="250px">
+  <img src="https://static.vecteezy.com/system/resources/previews/024/560/761/original/data-analytics-icon-monitoring-big-data-analysis-containing-database-free-png.png" align="right" width="230px">
 </picture>
 
 
@@ -56,7 +56,7 @@
 
 <!--icons and links-->
 <p>
-<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/migueldiazperezdejuan/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="mailto:migueldiazperezdejuan@gmail.com" target="blank"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" height="50" width="60" /></a>
 </p>
 
