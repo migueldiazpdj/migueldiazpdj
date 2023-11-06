@@ -24,13 +24,11 @@
 
 ## <b>🚀 Skills</b>
 
-<p align="center">
-
 - **🔤Languages**:
 
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-    ![R](https://img.shields.io/badge/R%20-%2769a84f.svg?style=for-the-badge&logo=r&logoColor=white)
-    ![HTML](https://img.shields.io/badge/HTML%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R%20-%2769a84f.svg?style=for-the-badge&logo=r&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 <br>   
 
 - **🛠️Tools**:
