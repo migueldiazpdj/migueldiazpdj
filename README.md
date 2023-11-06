@@ -1,6 +1,6 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Aditya Vikram Singh Banner]((https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2))
 
-<img alt="Night Coding" src="https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<h2>Hey there! I'm Aditya</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Miguel -->
 
