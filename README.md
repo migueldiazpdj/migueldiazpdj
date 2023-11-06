@@ -99,12 +99,9 @@
 
 <div align='center'>
 
-## <b>Passionate about leveraging data to drive informed business decisions and eager to embark on new challenges in the world of data analytics</b>
+## <b><i>Passionate about leveraging data to drive informed business decisions and eager to embark on new challenges in the world of data analytics</i></b>
 
 </div>
-<br>
-<br>
-<br>
 <br>
 
 ---
