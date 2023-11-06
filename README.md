@@ -20,7 +20,6 @@
 <br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
 
 <p align="center">
 
@@ -38,9 +37,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-%2345a4e5.svg?style=for-the-badge&logo=rstudio&logoColor=white)
 
-
-<br>
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
@@ -53,9 +49,6 @@
 </a>
 </div>
 
-<br>
-<br>
-
 ## <b> Let's Connect </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
@@ -63,9 +56,9 @@
 <ul>
 
 <li>
-<a href="(https://www.linkedin.com/in/migueldiazperezdejuan/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  migueldiazperezdejuan-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
+  <a href="https://www.linkedin.com/in/migueldiazperezdejuan/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin:%20migueldiazperezdejuan-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;"/>
+  </a>
 </li>
 
 <br>
