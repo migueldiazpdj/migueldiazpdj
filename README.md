@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner]((https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2))
+(https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
 <h2>Hey there! I'm Aditya</h2>
 
