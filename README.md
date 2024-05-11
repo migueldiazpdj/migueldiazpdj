@@ -14,8 +14,6 @@ I'm an enthusiastic data analyst in business strategy. My journey's marked by a 
 ![RStudio](https://img.shields.io/badge/RStudio-%2345a4e5.svg?style=for-the-badge&logo=rstudio&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-## <b>📈 Github Stats </b>
-<br>
 
 ## Find me around the web 🌎:
 - Sharing updates on <a href="https://www.linkedin.com/in/migueldiazperezdejuan/" target="blank"><img style="vertical-align: middle;" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="20" width="20" /></a>
