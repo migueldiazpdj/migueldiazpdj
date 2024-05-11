@@ -1,6 +1,6 @@
 # Hi, I'm Miguel 👋🏽 🧑🏽‍💻
 
-<img src="https://user-images.githubusercontent.com/MiguelDiaz/master/gh-header-image-cropped.png" alt="Banner that says Miguel Díaz - software engineer, data analyst, community organizer alongside a cartoon illustration of Miguel">
+![Banner](https://github.com/migueldiazpdj/BannerReadme/blob/main/Adventure%20Awaits%20(Banner%20(Landscape)).png)
 
 I'm an enthusiastic data analyst in business strategy. My journey's marked by a deep passion for innovation and entrepreneurship, tackling challenges that blend cutting-edge technology with business insights. When I'm not analyzing data trends, I pilot my drone for @Herculwing, capturing and sharing the world's beauty. Thanks for visiting and I'd love to [connect!](https://www.linkedin.com/in/migueldiazperezdejuan/)
 
