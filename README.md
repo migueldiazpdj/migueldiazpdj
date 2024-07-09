@@ -17,8 +17,8 @@ I'm an enthusiastic data analyst in business strategy.
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## Find me around the web 🌎:
-- Sharing updates on    <a href="https://www.linkedin.com/in/migueldiazperezdejuan/" target="blank"><img style="vertical-align: middle;" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="25" width="25" /></a>
-- Send me an email    <a href="mailto:migueldiazperezdejuan@gmail.com" target="blank"><img style="vertical-align: middle;" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" height="20" width="25" /></a>
+- Sharing updates on ➪   <a href="https://www.linkedin.com/in/migueldiazperezdejuan/" target="blank"><img style="vertical-align: middle;" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="25" width="25" /></a>
+- Send me an email ➪   <a href="mailto:migueldiazperezdejuan@gmail.com" target="blank"><img style="vertical-align: middle;" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" height="20" width="25" /></a>
 
 
 <!-- Horizontal line -->
