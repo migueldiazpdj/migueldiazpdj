@@ -1,6 +1,11 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
 
+<!--🖼️MACHADO-->
+<p align="center">
+<img src="[https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsurphile.tumblr.com%2Fpost%2F52376558471%2Frob-machado-hand-surfing-via-stab&psig=AOvVaw0WU8Qctnb7UCNJTLkjq7od&ust=1720635497418000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLCry5HImocDFQAAAAAdAAAAABAE
+)" height="240" width="370">
+
 # Hi, I'm Miguel 👋🏽 
 
 ![Banner](https://github.com/migueldiazpdj/BannerReadme/blob/main/Adventure%20Awaits%20(Banner%20(Landscape)).png)
