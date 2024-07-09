@@ -3,7 +3,7 @@
 
 <!--🖼️MACHADO-->
 <p align="center">
-<img src="[http://surphile.tumblr.com/post/52376558471/rob-machado-hand-surfing-via-stab](http://surphile.tumblr.com/post/52376558471/rob-machado-hand-surfing-via-stab)">
+<img src="[http://surphile.tumblr.com/post/52376558471/rob-machado-hand-surfing-via-stab](http://surphile.tumblr.com/post/52376558471/rob-machado-hand-surfing-via-stab)"height="240" width="370>
 
 # Hi, I'm Miguel 👋🏽 
 
