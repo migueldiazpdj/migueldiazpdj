@@ -1,3 +1,5 @@
+<!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
+
 # Hi, I'm Miguel 👋🏽 
 
 ![Banner](https://github.com/migueldiazpdj/BannerReadme/blob/main/Adventure%20Awaits%20(Banner%20(Landscape)).png)
