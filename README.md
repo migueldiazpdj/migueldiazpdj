@@ -3,8 +3,7 @@
 
 <!--🖼️MACHADO-->
 <p align="center">
-<img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsurphile.tumblr.com%2Fpost%2F52376558471%2Frob-machado-hand-surfing-via-stab&psig=AOvVaw0WU8Qctnb7UCNJTLkjq7od&ust=1720635497418000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLCry5HImocDFQAAAAAdAAAAABAE
-)" height="240" width="370">
+<img src="http://surphile.tumblr.com/post/52376558471/rob-machado-hand-surfing-via-stab" height="240" width="370">
 
 # Hi, I'm Miguel 👋🏽 
 
