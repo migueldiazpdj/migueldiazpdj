@@ -1,7 +1,7 @@
 # Hi, I'm Miguel 👋🏽
 ![Banner](https://github.com/migueldiazpdj/BannerReadme/blob/main/Adventure%20Awaits%20(Banner%20(Landscape)).png)
 
-<p>I'm an enthusiastic data analyst in business strategy. My journey's 🚀 marked by a deep passion for innovation and entrepreneurship, tackling challenges that blend cutting-edge technology with business insights. When I'm not analyzing data trends, I pilot my drone for <a href="https://twitter.com/Herculwing">@Herculwing</a>, capturing and sharing the world's beauty.</p>
+<p>I'm an enthusiastic data analyst in business strategy. My journey's 🚀 marked by a deep passion for innovation and entrepreneurship, tackling challenges that blend cutting-edge technology with business insights. When I'm not analyzing data trends, I pilot my drone for <a href="https://www.instagram.com/herculwing/">@Herculwing</a>, capturing and sharing the world's beauty.</p>
 
 - 🏫 Currently learning Python, R and SQL at university
 - 🔢 Working on mastering statistical analysis techniques
