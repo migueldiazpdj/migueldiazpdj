@@ -3,7 +3,7 @@
 
 <p>I'm an enthusiastic data analyst in business strategy. My journey's 🚀 marked by a deep passion for innovation and entrepreneurship, tackling challenges that blend cutting-edge technology with business insights. When I'm not analyzing data trends, I pilot my drone for <a href="https://www.instagram.com/herculwing/">@Herculwing</a>, capturing and sharing the world's beauty.</p>
 
-- 🏫 Currently learning Python, R and SQL at university
+- 🏫 Currently learning Python, R, SQL, large-scale computing, and Machine Learning at university
 - 🔢 Working on mastering statistical analysis techniques
 
 <p>Thanks for visiting and I'd love to <a href="https://www.linkedin.com/in/migueldiazperezdejuan/">connect!</a> 🌟</p>
@@ -15,6 +15,7 @@
 ![RStudio](https://img.shields.io/badge/RStudio-%2345a4e5.svg?style=for-the-badge&logo=rstudio&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Stata](https://img.shields.io/badge/Stata-%23007396.svg?style=for-the-badge&logo=stata&logoColor=white)  
 
 
  ## **Interests**
@@ -30,7 +31,9 @@
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
 <img src="https://www1.djicdn.com/dps/de46652dd99c67d4f8d17607e3bf0dce.jpg" width="60">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" width="60">
-</h4>
+<img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" width="60">
+</p>
+
 
 ## Find me around the web 🌎:
 - Sharing updates on ➪   <a href="https://www.linkedin.com/in/migueldiazperezdejuan/" target="blank"><img style="vertical-align: middle;" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="25" width="25" /></a>
