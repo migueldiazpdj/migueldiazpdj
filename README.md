@@ -39,10 +39,10 @@
 - Sharing updates on ➪   <a href="https://www.linkedin.com/in/migueldiazperezdejuan/" target="blank"><img style="vertical-align: middle;" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="25" width="25" /></a>
 - Send me an email ➪   <a href="mailto:migueldiazperezdejuan@gmail.com" target="blank"><img style="vertical-align: middle;" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="Gmail" height="20" width="25" /></a>
 
-![Description](./large.png)
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
+
+![Description](./large.png)
 
 <p align="center">
     <img src="https://media1.tenor.com/m/PoGQgQd1-JAAAAAC/what-the-duck-wtd.gif" height="240" width="370">
