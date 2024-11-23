@@ -16,13 +16,22 @@
   </h5>
 
  **🛠️Tools I use**:
-
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-%2345a4e5.svg?style=for-the-badge&logo=rstudio&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Stata](https://img.shields.io/badge/Stata-%23007396.svg?style=for-the-badge&logo=stata&logoColor=white)  
+<p align="center">
+  <!-- Icons for the requested technologies -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" style="vertical-align:top; margin:4px; height:60px; width:60px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" style="vertical-align:top; margin:4px; height:60px; width:60px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" style="vertical-align:top; margin:4px; height:60px; width:60px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" style="vertical-align:top; margin:4px; height:60px; width:60px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" style="vertical-align:top; margin:4px; height:60px; width:60px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" style="vertical-align:top; margin:4px; height:60px; width:60px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL" style="vertical-align:top; margin:4px; height:60px; width:60px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" style="vertical-align:top; margin:4px; height:60px; width:60px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Cloud" style="vertical-align:top; margin:4px; height:60px; width:60px;">
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" style="vertical-align:top; margin:4px; height:60px; width:60px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Mainframe" style="vertical-align:top; margin:4px; height:60px; width:60px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" style="vertical-align:top; margin:4px; height:60px; width:60px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="PowerShell" style="vertical-align:top; margin:4px; height:60px; width:60px;">
+</p>
 
 
 ## 🚀 Notable Projects
@@ -34,23 +43,6 @@
 | 🔗 [**Hackathon GDSC**](https://github.com/migueldiazpdj/HackathonGDSC)                    | Solutions and Analysis from Hackathon Projects  | Python, Model Prediction      |
 | 🔗 [**PERT Analysis with Python**](https://github.com/migueldiazpdj/Pert-Analysis-with-Python) | PERT Chart Analysis for Project Management      | Python, Business Analytics           |
 | 🔗 [**Farm Data Analysis**](https://github.com/migueldiazpdj/Farm-Data-Analysis)           | Analysis and Visualization of Farm Data         | Stata, Python, pystata    |
-
-
- ## **Interests**
- 
-<!--🖼️🖼️INTERSTLOGOS-->
-<p align="center">
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="60">
-<img src="https://cdn.icon-icons.com/icons2/91/PNG/512/adobe_premiere_pro_16391.png" width="60">
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="60">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="60">
-<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60">
-<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="60">
-<img src="https://www1.djicdn.com/dps/de46652dd99c67d4f8d17607e3bf0dce.jpg" width="60">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1200px-R_logo.svg.png" width="60">
-<img src="https://www.vectorlogo.zone/logos/ibm/ibm-icon.svg" width="60">
-</p>
 
 
 ## Find me around the web 🌎:
