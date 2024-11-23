@@ -21,6 +21,17 @@
 ![Stata](https://img.shields.io/badge/Stata-%23007396.svg?style=for-the-badge&logo=stata&logoColor=white)  
 
 
+## 🚀 Notable Projects
+
+| 🔗 Project                                                                                 | Description                                     | Technologies               |
+| ------------------------------------------------------------------------------------------ | ----------------------------------------------- | -------------------------- |
+| 🔗 [**My Portfolio**](https://migueldiazpdj.github.io/)                                    | Personal Website Showcasing Projects and Skills | HTML, CSS, JavaScript      |
+| 🔗 [**Time Spent**](https://github.com/migueldiazpdj/Time-Spent)                           | Application to Track and Visualize Time Usage   | RStudio, Statistics |
+| 🔗 [**Hackathon GDSC**](https://github.com/migueldiazpdj/HackathonGDSC)                    | Solutions and Analysis from Hackathon Projects  | Python, Model Prediction      |
+| 🔗 [**PERT Analysis with Python**](https://github.com/migueldiazpdj/Pert-Analysis-with-Python) | PERT Chart Analysis for Project Management      | Python, Business Analytics           |
+| 🔗 [**Farm Data Analysis**](https://github.com/migueldiazpdj/Farm-Data-Analysis)           | Analysis and Visualization of Farm Data         | Stata, Python, pystata    |
+
+
  ## **Interests**
  
 <!--🖼️🖼️INTERSTLOGOS-->
