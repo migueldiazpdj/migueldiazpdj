@@ -44,8 +44,6 @@
 
 ![Description](./large.png)
 
-<p align="center">
-    <img src="https://media1.tenor.com/m/PoGQgQd1-JAAAAAC/what-the-duck-wtd.gif" height="240" width="370">
 
 <!--🦶FOOTER--> 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
