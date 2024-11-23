@@ -80,3 +80,13 @@
     ██║  ██║███████╗██║     ██║██║ ╚████║███████╗██████╔╝      ╚██████╔╝██║   ██║   ██║  ██║╚██████╔╝██████╔╝
     ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚═╝  ╚═══╝╚══════╝╚═════╝        ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ 
 </pre>
+
+
+<p align="center">
+ <a href="https://github.com/migueldiazpdj">
+  <img src="https://komarev.com/ghpvc/?username=migueldiazpdj&label=Profile%20views&color=0e75b6&style=flat" alt="migueldiazpdj" />
+ </a>
+ <a href="https://github.com/migueldiazpdj">
+  <img src="https://img.shields.io/github/followers/migueldiazpdj?label=Followers" alt="migueldiazpdj" />
+ </a>
+</p>
