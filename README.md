@@ -3,8 +3,6 @@
   𝐇𝐞𝐥𝐥𝐨, it's Miguel!
   <img src="Earth.gif" alt="Earth Animation" width="24px" style="max-width:100%;">
 </h1>
- 
-![Banner](https://github.com/migueldiazpdj/BannerReadme/blob/main/Adventure%20Awaits%20(Banner%20(Landscape)).png)
 
 <p>I'm an enthusiastic data analyst in business strategy. My journey's 🚀 marked by a deep passion for innovation and entrepreneurship, tackling challenges that blend cutting-edge technology with business insights. When I'm not analyzing data trends, I pilot my drone for <a href="https://www.instagram.com/herculwing/">@Herculwing</a>, capturing and sharing the world's beauty.</p>
 
