@@ -11,6 +11,10 @@
 
 <p>Thanks for visiting and I'd love to <a href="https://www.linkedin.com/in/migueldiazperezdejuan/">connect!</a> 🌟</p>
 
+ <h5 align="center">
+   <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
+  </h5>
+
  **🛠️Tools I use**:
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
