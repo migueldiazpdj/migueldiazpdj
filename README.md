@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="" width="24px" style="max-width:100%;">
+  <img src="Earth.gif" width="24px" style="max-width:100%;">
   𝐇𝐞𝐥𝐥𝐨, it's Miguel!
-  <img src="" width="24px" style="max-width:100%;">
+  <img src="Earth.gif" width="24px" style="max-width:100%;">
 </h1>
  
 ![Banner](https://github.com/migueldiazpdj/BannerReadme/blob/main/Adventure%20Awaits%20(Banner%20(Landscape)).png)
