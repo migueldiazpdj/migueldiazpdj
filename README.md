@@ -4,7 +4,7 @@
   <img src="Earth.gif" alt="Earth Animation" width="24px" style="max-width:100%;">
 </h1>
 
-<p>I'm an enthusiastic data analyst in business strategy. My journey's 🚀 marked by a deep passion for innovation and entrepreneurship, tackling challenges that blend cutting-edge technology with business insights. When I'm not analyzing data trends, I pilot my drone for <a href="https://www.instagram.com/herculwing/">@Herculwing</a>, capturing and sharing the world's beauty.</p>
+<p>I'm an enthusiastic data analyst in business strategy. My journey's 🚀 marked by a deep passion for innovation and entrepreneurship, tackling challenges that blend cutting-edge technology with business insights.</p>
 
 - 🏫 Currently learning Python, R, SQL, large-scale computing, and Machine Learning at university
 - 🔢 Working on mastering statistical analysis techniques
