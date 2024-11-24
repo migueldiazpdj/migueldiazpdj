@@ -3,6 +3,9 @@
   𝐇𝐞𝐥𝐥𝐨, it's Miguel!
   <img src="Earth.gif" alt="Earth Animation" width="24px" style="max-width:100%;">
 </h1>
+<p align="center">
+  <img src="banner.png" alt="Banner" style="width:100%; height:auto;">
+</p>
 
 <p>I'm an enthusiastic data analyst in business strategy. My journey's 🚀 marked by a deep passion for innovation and entrepreneurship, tackling challenges that blend cutting-edge technology with business insights.</p>
 
