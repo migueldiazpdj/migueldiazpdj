@@ -7,7 +7,7 @@
   <img src="banner.png" alt="Banner" style="width:100%; height:auto;">
 </p>
 
-<p>I'm an enthusiastic data analyst in business strategy. My journey's 🚀 marked by a deep passion for innovation and entrepreneurship, tackling challenges that blend cutting-edge technology with business insights.</p>
+> I'm an enthusiastic data analyst in business strategy. My journey's 🚀 marked by a deep passion for innovation and entrepreneurship, tackling challenges that blend cutting-edge technology with business insights.
 
 - 🏫 Currently learning **Python**, **R**, **SQL**, **Large-scale Computing**, and **Machine Learning** at university.
 - 🔭 Learning **mainframe technologies** and **scalable computation**.
@@ -19,6 +19,7 @@
    <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
   </h5>
 
+---
  ## 🛠️Tools I use
 <p align="center">
   <!-- Icons for the requested technologies -->
@@ -37,6 +38,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="PowerShell" style="vertical-align:top; margin:4px; height:60px; width:60px;">
 </p>
 
+
+
 ## 🚀 Notable Projects
 
 | 🔗 Project                                                                                 | Description                                     | Technologies               |
@@ -54,6 +57,8 @@
 <div align="center">
 
 ### Show some ❤️ by starring ⭐ some of the repositories!
+
+---
 
 </div>
 
