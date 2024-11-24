@@ -9,8 +9,9 @@
 
 <p>I'm an enthusiastic data analyst in business strategy. My journey's 🚀 marked by a deep passion for innovation and entrepreneurship, tackling challenges that blend cutting-edge technology with business insights.</p>
 
-- 🏫 Currently learning Python, R, SQL, large-scale computing, and Machine Learning at university
-- 🔢 Working on mastering statistical analysis techniques
+- 🏫 Currently learning Python, R, SQL, large-scale computing, and Machine Learning at university.
+- 🔭 Learning **mainframe technologies** and **scalable computation**.
+- 🔢 Working on mastering statistical analysis techniques.
 
 <p>Thanks for visiting and I'd love to <a href="https://www.linkedin.com/in/migueldiazperezdejuan/">connect!</a> 🌟</p>
 
@@ -71,15 +72,6 @@
 <!-- Horizontal line -->
 ![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-<p align="center">
- <a href="https://github.com/migueldiazpdj">
-  <img src="https://komarev.com/ghpvc/?username=migueldiazpdj&label=Profile%20views&color=0e75b6&style=flat" alt="migueldiazpdj" />
- </a>
- <a href="https://github.com/migueldiazpdj">
-  <img src="https://img.shields.io/github/followers/migueldiazpdj?label=Followers" alt="migueldiazpdj" />
- </a>
-</p>
-
 <pre>
     ██████╗ ███████╗███████╗██╗███╗   ██╗███████╗██████╗        ██████╗ ██╗████████╗██╗  ██╗██╗   ██╗██████╗ 
     ██╔══██╗██╔════╝██╔════╝██║████╗  ██║██╔════╝██╔══██╗      ██╔════╝ ██║╚══██╔══╝██║  ██║██║   ██║██╔══██╗
@@ -88,3 +80,18 @@
     ██║  ██║███████╗██║     ██║██║ ╚████║███████╗██████╔╝      ╚██████╔╝██║   ██║   ██║  ██║╚██████╔╝██████╔╝
     ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚═╝  ╚═══╝╚══════╝╚═════╝        ╚═════╝ ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ 
 </pre>
+
+
+<p align="center">
+ <a href="https://github.com/migueldiazpdj">
+  <img src="https://komarev.com/ghpvc/?username=migueldiazpdj&label=Profile%20views&color=0e75b6&style=flat" alt="migueldiazpdj" />
+ </a>
+ <a href="https://github.com/migueldiazpdj">
+  <img src="https://img.shields.io/github/followers/migueldiazpdj?label=Followers" alt="migueldiazpdj" />
+ </a>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="500px">
+</p>
+
+
