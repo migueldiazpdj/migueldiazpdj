@@ -9,7 +9,7 @@
 
 <p>I'm an enthusiastic data analyst in business strategy. My journey's 🚀 marked by a deep passion for innovation and entrepreneurship, tackling challenges that blend cutting-edge technology with business insights.</p>
 
-- 🏫 Currently learning Python, R, SQL, large-scale computing, and Machine Learning at university.
+- 🏫 Currently learning **Python**, **R**, **SQL**, **Large-scale Computing**, and **Machine Learning** at university.
 - 🔭 Learning **mainframe technologies** and **scalable computation**.
 - 🔢 Working on mastering statistical analysis techniques.
 
@@ -19,7 +19,7 @@
    <i>⚡️I don’t trust people who don’t write SQL queries in uppercase⚡️</i>
   </h5>
 
- **🛠️Tools I use**:
+ ## 🛠️Tools I use
 <p align="center">
   <!-- Icons for the requested technologies -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" style="vertical-align:top; margin:4px; height:60px; width:60px;">
@@ -37,8 +37,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="PowerShell" style="vertical-align:top; margin:4px; height:60px; width:60px;">
 </p>
 
-
 ## 🚀 Notable Projects
+<div align="center">
+
 
 | 🔗 Project                                                                                 | Description                                     | Technologies               |
 | ------------------------------------------------------------------------------------------ | ----------------------------------------------- | -------------------------- |
@@ -47,7 +48,7 @@
 | 🔗 [**Hackathon GDSC**](https://github.com/migueldiazpdj/HackathonGDSC)                    | Solutions and Analysis from Hackathon Projects  | Python, Model Prediction      |
 | 🔗 [**PERT Analysis with Python**](https://github.com/migueldiazpdj/Pert-Analysis-with-Python) | PERT Chart Analysis for Project Management      | Python, Business Analytics           |
 | 🔗 [**Farm Data Analysis**](https://github.com/migueldiazpdj/Farm-Data-Analysis)           | Analysis and Visualization of Farm Data         | Stata, Python, pystata    |
-
+</div>
 
 ## Find me around the web 🌎:
 - Sharing updates on ➪   <a href="https://www.linkedin.com/in/migueldiazperezdejuan/" target="blank"><img style="vertical-align: middle;" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="25" width="25" /></a>
