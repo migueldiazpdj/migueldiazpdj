@@ -38,8 +38,6 @@
 </p>
 
 ## 🚀 Notable Projects
-<div align="center">
-
 
 | 🔗 Project                                                                                 | Description                                     | Technologies               |
 | ------------------------------------------------------------------------------------------ | ----------------------------------------------- | -------------------------- |
@@ -48,7 +46,6 @@
 | 🔗 [**Hackathon GDSC**](https://github.com/migueldiazpdj/HackathonGDSC)                    | Solutions and Analysis from Hackathon Projects  | Python, Model Prediction      |
 | 🔗 [**PERT Analysis with Python**](https://github.com/migueldiazpdj/Pert-Analysis-with-Python) | PERT Chart Analysis for Project Management      | Python, Business Analytics           |
 | 🔗 [**Farm Data Analysis**](https://github.com/migueldiazpdj/Farm-Data-Analysis)           | Analysis and Visualization of Farm Data         | Stata, Python, pystata    |
-</div>
 
 ## Find me around the web 🌎:
 - Sharing updates on ➪   <a href="https://www.linkedin.com/in/migueldiazperezdejuan/" target="blank"><img style="vertical-align: middle;" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="25" width="25" /></a>
