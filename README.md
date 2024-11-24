@@ -90,8 +90,3 @@
   <img src="https://img.shields.io/github/followers/migueldiazpdj?label=Followers" alt="migueldiazpdj" />
  </a>
 </p>
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="500px">
-</p>
-
-
