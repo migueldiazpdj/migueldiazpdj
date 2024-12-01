@@ -44,7 +44,7 @@
 
 | 🔗 Project                                                                                 | Description                                     | Technologies               |
 | ------------------------------------------------------------------------------------------ | ----------------------------------------------- | -------------------------- |
-| 🔗 [**My Portfolio**](https://migueldiazpdj.github.io/)                                    | Personal Website Showcasing Projects and Skills | HTML, CSS, JavaScript      |
+| 🔗 [**My Portfolio**](https://migueldiazpdj.github.io/)                                    | Personal Website Showcasing Projects and Skills | HTML, CSS, JavaScript, React      |
 | 🔗 [**Time Spent**](https://github.com/migueldiazpdj/Time-Spent)                           | Application to Track and Visualize Time Usage   | RStudio, Statistics |
 | 🔗 [**Hackathon GDSC**](https://github.com/migueldiazpdj/HackathonGDSC)                    | Solutions and Analysis from Hackathon Projects  | Python, Model Prediction      |
 | 🔗 [**PERT Analysis with Python**](https://github.com/migueldiazpdj/Pert-Analysis-with-Python) | PERT Chart Analysis for Project Management      | Python, Business Analytics           |
