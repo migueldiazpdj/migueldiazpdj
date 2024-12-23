@@ -9,7 +9,7 @@
 
 > I'm an enthusiastic data analyst in business strategy. My journey's 🚀 marked by a deep passion for innovation and entrepreneurship, tackling challenges that blend cutting-edge technology with business insights.
 
-- 🏫 Currently learning **Python**, **R**, **SQL**, **Large-scale Computing**, and **Machine Learning** at university.
+- 🏫 Currently learning **Python**, **R**, **SQL**, **Large-scale Computing**, **Optimization for BA** and **Machine Learning** at university.
 - 🔭 Learning **mainframe technologies** and **scalable computation**.
 - 🔢 Working on mastering statistical analysis techniques.
 
