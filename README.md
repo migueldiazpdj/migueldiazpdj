@@ -45,6 +45,8 @@
 | 🔗 Project                                                                                 | Description                                     | Technologies               |
 | ------------------------------------------------------------------------------------------ | ----------------------------------------------- | -------------------------- |
 | 🔗 [**My Portfolio**](https://migueldiazpdj.github.io/)                                    | Personal Website Showcasing Projects and Skills | HTML, CSS, JavaScript, React      |
+| 🔗 [**Multi Axis Regression Approach for ITP Manufacturing Data**](https://github.com/migueldiazpdj/Time-Spent) | Machine Learning for Broaching Optimization - ITP Aero | RStudio, ML Models |
+| 🔗 [**Optimization Algorithms for The Complex Rubies Challenge**](https://github.com/migueldiazpdj/Time-Spent)  | Comparing the performance    | RStudio, Optimization Algorithms |
 | 🔗 [**Time Spent**](https://github.com/migueldiazpdj/Time-Spent)                           | Application to Track and Visualize Time Usage   | RStudio, Statistics |
 | 🔗 [**Hackathon GDSC**](https://github.com/migueldiazpdj/HackathonGDSC)                    | Solutions and Analysis from Hackathon Projects  | Python, Model Prediction      |
 | 🔗 [**PERT Analysis with Python**](https://github.com/migueldiazpdj/Pert-Analysis-with-Python) | PERT Chart Analysis for Project Management      | Python, Business Analytics           |
