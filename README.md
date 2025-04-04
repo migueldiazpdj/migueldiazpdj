@@ -3,6 +3,9 @@
   𝐇𝐞𝐥𝐥𝐨, it's Miguel!
   <img src="Earth.gif" alt="Earth Animation" width="24px" style="max-width:100%;">
 </h1>
+<p align="center"> 
+  Financial Computing & Business Information Systems
+  </p>
 <p align="center">
   <img src="banner.png" alt="Banner" style="width:100%; height:auto;">
 </p>
