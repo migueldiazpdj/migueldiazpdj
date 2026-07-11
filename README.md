@@ -2,8 +2,6 @@
 
 ### Marketing Data Scientist @ NTT DATA · Data & Business Analytics
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6FD3A8&center=true&vCenter=true&width=560&lines=Marketing+Mix+Modeling+%7C+Meta+Robyn+%2F+Google+Meridian;Cloud+data+pipelines+%7C+Azure+%2B+Snowflake;Bayesian+priors%2C+Adstock+%26+Hill+functions;Turning+marketing+data+into+decisions" alt="Typing SVG" />
-
 <p>
   <a href="https://www.linkedin.com/in/migueldiazperezdejuan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:migueldiazperezdejuan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
