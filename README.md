@@ -47,7 +47,7 @@
 
 | 🔗 Project                                                                                 | Description                                     | Technologies               |
 | ------------------------------------------------------------------------------------------ | ----------------------------------------------- | -------------------------- |
-| 🔗 [**Análisis de los Riesgos Económicos y Éticos de los Sistemas Algorítmicos en la Industria de la Aviacióno**](https://github.com/migueldiazpdj/TFG)                                    | Trabajo de Fin de Grado | NLP & Data Analytics and Ethics Anaytics      |
+| 🔗 [**Análisis de los Riesgos Económicos y Éticos de los Sistemas Algorítmicos en la Industria de la Aviación**](https://github.com/migueldiazpdj/TFG)                                    | Trabajo de Fin de Grado | NLP & Data Analytics and Ethics Anaytics      |
 | 🔗 [**Multi Axis Regression for ITP Manufacturing**](https://github.com/migueldiazpdj/Multi-Axis-Regression-Approach-for-ITP-Aero-Manufacturing-Data) | Machine Learning for Broaching Optimization - ITP Aero | RStudio, ML Models |
 | 🔗 [**Wave Height Prediction**](https://github.com/migueldiazpdj/Predicting-Ocean-Wave-Height) | Application to Track and Visualize Time Usage   | GCP, BigQuery, Python, ML |
 | 🔗 [**Opt Algorithms for Rubies Challenge**](https://github.com/migueldiazpdj/Optimization-Algorithms-Put-to-the-Test--The-Complex-Rubies-Challenge)  | Comparing the performance    | RStudio, Optimization Algorithms |
