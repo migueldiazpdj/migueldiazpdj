@@ -87,17 +87,6 @@ I'll start the MSc in Data Science Technologies at the University of Edinburgh i
 
 <div align="center">
 
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=migueldiazpdj&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=6FD3A8&icon_color=4DD0FF&text_color=D9DDE2" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueldiazpdj&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=6FD3A8&text_color=D9DDE2" height="165" />
-
-</div>
-
-<br>
-
-<div align="center">
-
 ### Let's connect
 
 <a href="https://www.linkedin.com/in/migueldiazperezdejuan/"><img src="https://img.shields.io/badge/LinkedIn-1A1A1A?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
