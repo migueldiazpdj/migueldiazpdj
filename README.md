@@ -50,24 +50,6 @@ Scotland, Costa Rica, and one very memorable IBM mainframe.
   <img src="https://img.shields.io/badge/IBM%20Mainframe-052FAD?style=flat-square&logo=ibm&logoColor=white" />
 </p>
 
-<br>
-
-### `cat career.log`
-
-```
-[2026-06] → Marketing Data Scientist, NTT DATA Europe & Latam · Barcelona
-[2026-05] → Finished the Madrid Business Program with IESE
-[2026-05] → Graduated B.A. Business Administration & Data Analytics, UNAV
-[2026-05] → Graduated IBM Z Student Ambassador program · spoke at IBM Z Day
-[2025-09] → Completed exchange at the University of Edinburgh
-[2025-03] → AI & Data Science Intern, Datagis · Costa Rica (remote)
-[2024-09] → Founder & Lead, Data Drivers | UNAV
-[2024-05] → Energy Data Analyst Intern, Grupo Iremar · Huesca
-[2026-09] → (next) MSc Data Science Technologies, University of Edinburgh
-```
-
-<br>
-
 ## 🚀 Notable Projects
 
 | Project | Description | Stack |
