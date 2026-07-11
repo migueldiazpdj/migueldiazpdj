@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="Earth.gif" alt="Earth Animation" width="26px">
-
 # Miguel Díaz
 
 ### Marketing Data Scientist @ NTT DATA · Data & Business Analytics
@@ -25,16 +21,11 @@
 ### `whoami`
 
 ```
-I'm a data scientist who thinks in pipelines and speaks fluent SQL.
+I'm a data scientist who thinks in pipelines.
 Currently: measuring what marketing actually does, not what it claims to do.
 Background: Business Administration + Data Analytics, with detours through
 Scotland, Costa Rica, and one very memorable IBM mainframe.
 ```
-
-- 🧠 Building **Marketing Mix Modeling** solutions (Meta Robyn, Google Meridian) to turn media spend into a defensible ROI number
-- ☁️ Shipping **cloud data pipelines** (Azure Data Factory, Databricks, Snowflake) that don't fall over on a Monday morning
-- 🎓 Starting the **MSc in Data Science Technologies** at the University of Edinburgh, Sep 2026
-- 📐 Tuning Bayesian priors, Adstock and Hill functions until the numbers stop lying
 - ⚡️ *I don't trust people who don't write SQL queries in uppercase*
 
 <br>
