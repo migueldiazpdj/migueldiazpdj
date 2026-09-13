@@ -38,7 +38,7 @@ I'll start the MSc in Data Science Technologies at the University of Edinburgh i
 
 | | |
 |---|---|
-| 🎓 **Education** | B.A. Business Administration & Data Analytics, University of Navarra (2022–2026) · Exchange, University of Edinburgh · Madrid Business Program, IESE |
+| 🎓 **Education** | MSc Data Science @ Edinburgh · B.A. Business Administration & Data Analytics, University of Navarra (2022–2026) · Exchange, University of Edinburgh · Madrid Business Program, IESE |
 | 💼 **Current role** | Marketing Data Scientist, NTT DATA Europe & Latam (Barcelona, since 2026) — Marketing Mix Modeling and cloud data pipelines |
 | 🧪 **Past experience** | AI & Data Science Intern, Datagis (geospatial NLP, Costa Rica) · Energy Data Analyst Intern, Grupo Iremar |
 | 🚀 **Leadership** | Founder & Lead, Data Drivers | UNAV · IBM Z Student Ambassador |
