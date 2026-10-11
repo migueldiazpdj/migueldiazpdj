@@ -29,10 +29,6 @@
 
 </div>
 
-<p align="center">
-  <img src="banner.png" alt="Banner" style="width:100%; height:auto;">
-</p>
-
 <br>
 
 ## About
