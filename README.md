@@ -1,3 +1,16 @@
+<p align="center">
+  <img src="github_marine_banner.png" width="100%" alt="Global Marine Biodiversity Heatmap" style="border-radius: 8px;" />
+</p>
+
+<p align="center">
+  <sub>
+    Global Marine Biodiversity Heatmap (OBIS / IOC-UNESCO) • 
+    Inspired by David Curran's <em>World Temperature Anomalies Heatmap</em> (CC BY-SA 4.0)
+  </sub>
+</p>
+
+
+
 <div align="center">
 
 <img src="Earth.gif" alt="Earth Animation" width="24px">
