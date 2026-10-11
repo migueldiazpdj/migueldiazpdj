@@ -13,8 +13,6 @@
 
 <div align="center">
 
-<img src="Earth.gif" alt="Earth Animation" width="24px">
-
 # Miguel Díaz
 
 **Data Analytics & Business Intelligence**
