@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="130" viewBox="0 0 1200 130" role="img" aria-label="Thanks for stopping by">
+<defs><linearGradient id="lg0" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#75a37f"/><stop offset="1" stop-color="#41734c"/></linearGradient><linearGradient id="lg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d4903f"/><stop offset="1" stop-color="#ad6b21"/></linearGradient><linearGradient id="lg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c7735b"/><stop offset="1" stop-color="#9e4c34"/></linearGradient><linearGradient id="lg3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#829c5a"/><stop offset="1" stop-color="#5a6e35"/></linearGradient><filter id="bl" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="2.2"/></filter></defs><style>text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}</style>
+<path d="M120 112 Q 360 104 600 112 Q 840 120 1080 112" stroke="#dcd4c5" stroke-width="1.5" fill="none"/>
+<g transform="translate(600 111) rotate(-24) scale(0.34)" opacity="0.9" >
+<path d="M0 0 C 28 -34, 92 -36, 128 0 C 92 36, 28 34, 0 0 Z" fill="url(#lg0)"/>
+<path d="M0 0 L 118 0" stroke="#41734c" stroke-width="1.6" stroke-linecap="round" opacity=".55"/>
+<path d="M-26 0 L 0 0" stroke="#41734c" stroke-width="2.4" stroke-linecap="round"/></g><g transform="translate(600 111) rotate(-150) scale(0.26)" opacity="0.9" >
+<path d="M0 0 C 28 -34, 92 -36, 128 0 C 92 36, 28 34, 0 0 Z" fill="url(#lg1)"/>
+<path d="M0 0 L 118 0" stroke="#ad6b21" stroke-width="1.6" stroke-linecap="round" opacity=".55"/>
+<path d="M-26 0 L 0 0" stroke="#ad6b21" stroke-width="2.4" stroke-linecap="round"/></g><g transform="translate(600 111) rotate(-84) scale(0.22)" opacity="0.9" >
+<path d="M0 0 C 28 -34, 92 -36, 128 0 C 92 36, 28 34, 0 0 Z" fill="url(#lg2)"/>
+<path d="M0 0 L 118 0" stroke="#9e4c34" stroke-width="1.6" stroke-linecap="round" opacity=".55"/>
+<path d="M-26 0 L 0 0" stroke="#9e4c34" stroke-width="2.4" stroke-linecap="round"/></g>
+<text x="600" y="30" text-anchor="middle" font-size="14" fill="#807261">Thanks for stopping by. Feel free to star a repo if something's useful.</text></svg>
